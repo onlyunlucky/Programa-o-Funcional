@@ -1,3 +1,3 @@
-# Programa-o-Funcional
+# Programacao-Funcional
 
 Haskell
